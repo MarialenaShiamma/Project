@@ -1,0 +1,31 @@
+﻿Build started 14-Oct-13 9:52:07 PM.
+     1>Project "C:\Users\Marialena\Documents\GitHub\Project\Milestone 1 completed\Test\Test.vcxproj" on node 2 (Build target(s)).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc110.pdb" /Gd /TC /analyze- /errorReport:prompt Source.c
+         Source.c
+     1>c:\users\marialena\documents\github\project\milestone 1 completed\test\parser.h(79): error C2059: syntax error : '=='
+     1>c:\users\marialena\documents\github\project\milestone 1 completed\test\parser.h(97): error C2046: illegal case
+     1>c:\users\marialena\documents\github\project\milestone 1 completed\test\parser.h(141): error C2059: syntax error : '=='
+     1>c:\users\marialena\documents\github\project\milestone 1 completed\test\parser.h(154): error C2059: syntax error : ','
+     1>c:\users\marialena\documents\github\project\milestone 1 completed\test\parser.h(154): error C2143: syntax error : missing ')' before 'string'
+     1>c:\users\marialena\documents\github\project\milestone 1 completed\test\parser.h(154): error C2143: syntax error : missing '{' before 'string'
+     1>c:\users\marialena\documents\github\project\milestone 1 completed\test\parser.h(154): error C2059: syntax error : '<Unknown>'
+     1>c:\users\marialena\documents\github\project\milestone 1 completed\test\parser.h(154): error C2059: syntax error : ')'
+     1>c:\users\marialena\documents\github\project\milestone 1 completed\test\parser.h(155): error C2059: syntax error : 'break'
+     1>c:\users\marialena\documents\github\project\milestone 1 completed\test\parser.h(156): error C2059: syntax error : '}'
+     1>c:\users\marialena\documents\github\project\milestone 1 completed\test\parser.h(220): error C2059: syntax error : '}'
+     1>c:\users\marialena\documents\github\project\milestone 1 completed\test\parser.h(221): error C2059: syntax error : '}'
+     1>c:\users\marialena\documents\github\project\milestone 1 completed\test\parser.h(224): warning C4273: 'fclose' : inconsistent dll linkage
+                 c:\program files (x86)\microsoft visual studio 11.0\vc\include\stdio.h(183) : see previous definition of 'fclose'
+     1>c:\users\marialena\documents\github\project\milestone 1 completed\test\parser.h(225): error C2059: syntax error : '}'
+     1>c:\users\marialena\documents\github\project\milestone 1 completed\test\source.c(24): warning C4013: 'Structures' undefined; assuming extern returning int
+     1>c:\users\marialena\documents\github\project\milestone 1 completed\test\source.c(133): error C2059: syntax error : '=='
+     1>c:\users\marialena\documents\github\project\milestone 1 completed\test\source.c(136): error C2181: illegal else without matching if
+     1>c:\users\marialena\documents\github\project\milestone 1 completed\test\source.c(136): error C2059: syntax error : '=='
+     1>c:\users\marialena\documents\github\project\milestone 1 completed\test\source.c(139): error C2181: illegal else without matching if
+     1>c:\users\marialena\documents\github\project\milestone 1 completed\test\source.c(139): error C2059: syntax error : '=='
+     1>Done Building Project "C:\Users\Marialena\Documents\GitHub\Project\Milestone 1 completed\Test\Test.vcxproj" (Build target(s)) -- FAILED.
+
+Build FAILED.
+
+Time Elapsed 00:00:00.31
